@@ -1,4 +1,4 @@
-# AI Journey
+# AI Journey - Marc
 
 Welcome to my public playground for diving headfirst into AI and LLMs. This repo is where I turn lessons from courses into working code, focusing on LangChain, LangGraph, MCP, Snowflake, and eventually fine-tuning my own models. I'm a DevSecOps engineer leveling up to an AI/LLM role, and this is the proof—experiments, projects, and all the bugs that come with learning.
 
